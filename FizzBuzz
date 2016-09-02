@@ -1,0 +1,900 @@
+a1 = 1
+if a1 % 15 == 0:
+    print('FizzBuzz')
+elif a1 % 5 == 0:
+    print('Buzz')
+elif a1 % 3 == 0:
+    print('Fizz')
+else:
+    print('1')
+a2 = 2
+if a2 % 15 == 0:
+    print('FizzBuzz')
+elif a2 % 5 == 0:
+    print('Buzz')
+elif a2 % 3 == 0:
+    print('Fizz')
+else:
+    print('2')
+a3 = 3
+if a3 % 15 == 0:
+    print('FizzBuzz')
+elif a3 % 5 == 0:
+    print('Buzz')
+elif a3 % 3 == 0:
+    print('Fizz')
+else:
+    print('3')
+a4 = 4
+if a4 % 15 == 0:
+    print('FizzBuzz')
+elif a4 % 5 == 0:
+    print('Buzz')
+elif a4 % 3 == 0:
+    print('Fizz')
+else:
+    print('4')
+a5 = 5
+if a5 % 15 == 0:
+    print('FizzBuzz')
+elif a5 % 5 == 0:
+    print('Buzz')
+elif a5 % 3 == 0:
+    print('Fizz')
+else:
+    print('5')
+a6 = 6
+if a6 % 15 == 0:
+    print('FizzBuzz')
+elif a6 % 5 == 0:
+    print('Buzz')
+elif a6 % 3 == 0:
+    print('Fizz')
+else:
+    print('6')
+a7 = 7
+if a7 % 15 == 0:
+    print('FizzBuzz')
+elif a7 % 5 == 0:
+    print('Buzz')
+elif a7 % 3 == 0:
+    print('Fizz')
+else:
+    print('7')
+a8 = 8
+if a8 % 15 == 0:
+    print('FizzBuzz')
+elif a8 % 5 == 0:
+    print('Buzz')
+elif a8 % 3 == 0:
+    print('Fizz')
+else:
+    print('8')
+a9 = 9
+if a9 % 15 == 0:
+    print('FizzBuzz')
+elif a9 % 5 == 0:
+    print('Buzz')
+elif a9 % 3 == 0:
+    print('Fizz')
+else:
+    print('9')
+a10 = 10
+if a10 % 15 == 0:
+    print('FizzBuzz')
+elif a10 % 5 == 0:
+    print('Buzz')
+elif a10 % 3 == 0:
+    print('Fizz')
+else:
+    print('10')
+a11 = 11
+if a11 % 15 == 0:
+    print('FizzBuzz')
+elif a11 % 5 == 0:
+    print('Buzz')
+elif a11 % 3 == 0:
+    print('Fizz')
+else:
+    print('11')
+a12 = 12
+if a12 % 15 == 0:
+    print('FizzBuzz')
+elif a12 % 5 == 0:
+    print('Buzz')
+elif a12 % 3 == 0:
+    print('Fizz')
+else:
+    print('12')
+a13 = 13
+if a13 % 15 == 0:
+    print('FizzBuzz')
+elif a13 % 5 == 0:
+    print('Buzz')
+elif a13 % 3 == 0:
+    print('Fizz')
+else:
+    print('13')
+a14 = 14
+if a14 % 15 == 0:
+    print('FizzBuzz')
+elif a14 % 5 == 0:
+    print('Buzz')
+elif a14 % 3 == 0:
+    print('Fizz')
+else:
+    print('14')
+a15 = 15
+if a15 % 15 == 0:
+    print('FizzBuzz')
+elif a15 % 5 == 0:
+    print('Buzz')
+elif a15 % 3 == 0:
+    print('Fizz')
+else:
+    print('15')
+a16 = 16
+if a16 % 15 == 0:
+    print('FizzBuzz')
+elif a16 % 5 == 0:
+    print('Buzz')
+elif a16 % 3 == 0:
+    print('Fizz')
+else:
+    print('16')
+a17 = 17
+if a17 % 15 == 0:
+    print('FizzBuzz')
+elif a17 % 5 == 0:
+    print('Buzz')
+elif a17 % 3 == 0:
+    print('Fizz')
+else:
+    print('17')
+a18 = 18
+if a18 % 15 == 0:
+    print('FizzBuzz')
+elif a18 % 5 == 0:
+    print('Buzz')
+elif a18 % 3 == 0:
+    print('Fizz')
+else:
+    print('18')
+a19 = 19
+if a19 % 15 == 0:
+    print('FizzBuzz')
+elif a19 % 5 == 0:
+    print('Buzz')
+elif a19 % 3 == 0:
+    print('Fizz')
+else:
+    print('19')
+a20 = 20
+if a20 % 15 == 0:
+    print('FizzBuzz')
+elif a20 % 5 == 0:
+    print('Buzz')
+elif a20 % 3 == 0:
+    print('Fizz')
+else:
+    print('20')
+a21 = 21
+if a21 % 15 == 0:
+    print('FizzBuzz')
+elif a21 % 5 == 0:
+    print('Buzz')
+elif a21 % 3 == 0:
+    print('Fizz')
+else:
+    print('21')
+a22 = 22
+if a22 % 15 == 0:
+    print('FizzBuzz')
+elif a22 % 5 == 0:
+    print('Buzz')
+elif a22 % 3 == 0:
+    print('Fizz')
+else:
+    print('22')
+a23 = 23
+if a23 % 15 == 0:
+    print('FizzBuzz')
+elif a23 % 5 == 0:
+    print('Buzz')
+elif a23 % 3 == 0:
+    print('Fizz')
+else:
+    print('23')
+a24 = 24
+if a24 % 15 == 0:
+    print('FizzBuzz')
+elif a24 % 5 == 0:
+    print('Buzz')
+elif a24 % 3 == 0:
+    print('Fizz')
+else:
+    print('24')
+a25 = 25
+if a25 % 15 == 0:
+    print('FizzBuzz')
+elif a25 % 5 == 0:
+    print('Buzz')
+elif a25 % 3 == 0:
+    print('Fizz')
+else:
+    print('25')
+a26 = 26
+if a26 % 15 == 0:
+    print('FizzBuzz')
+elif a26 % 5 == 0:
+    print('Buzz')
+elif a26 % 3 == 0:
+    print('Fizz')
+else:
+    print('26')
+a27 = 27
+if a27 % 15 == 0:
+    print('FizzBuzz')
+elif a27 % 5 == 0:
+    print('Buzz')
+elif a27 % 3 == 0:
+    print('Fizz')
+else:
+    print('27')
+a28 = 28
+if a28 % 15 == 0:
+    print('FizzBuzz')
+elif a28 % 5 == 0:
+    print('Buzz')
+elif a28 % 3 == 0:
+    print('Fizz')
+else:
+    print('28')
+a29 = 29
+if a29 % 15 == 0:
+    print('FizzBuzz')
+elif a29 % 5 == 0:
+    print('Buzz')
+elif a29 % 3 == 0:
+    print('Fizz')
+else:
+    print('29')
+a30 = 30
+if a30 % 15 == 0:
+    print('FizzBuzz')
+elif a30 % 5 == 0:
+    print('Buzz')
+elif a30 % 3 == 0:
+    print('Fizz')
+else:
+    print('30')
+a31 = 31
+if a31 % 15 == 0:
+    print('FizzBuzz')
+elif a31 % 5 == 0:
+    print('Buzz')
+elif a31 % 3 == 0:
+    print('Fizz')
+else:
+    print('31')
+a32 = 32
+if a32 % 15 == 0:
+    print('FizzBuzz')
+elif a32 % 5 == 0:
+    print('Buzz')
+elif a32 % 3 == 0:
+    print('Fizz')
+else:
+    print('32')
+a33 = 33
+if a33 % 15 == 0:
+    print('FizzBuzz')
+elif a33 % 5 == 0:
+    print('Buzz')
+elif a33 % 3 == 0:
+    print('Fizz')
+else:
+    print('33')
+a34 = 34
+if a34 % 15 == 0:
+    print('FizzBuzz')
+elif a34 % 5 == 0:
+    print('Buzz')
+elif a34 % 3 == 0:
+    print('Fizz')
+else:
+    print('34')
+a35 = 35
+if a35 % 15 == 0:
+    print('FizzBuzz')
+elif a35 % 5 == 0:
+    print('Buzz')
+elif a35 % 3 == 0:
+    print('Fizz')
+else:
+    print('35')
+a36 = 36
+if a36 % 15 == 0:
+    print('FizzBuzz')
+elif a36 % 5 == 0:
+    print('Buzz')
+elif a36 % 3 == 0:
+    print('Fizz')
+else:
+    print('36')
+a37 = 37
+if a37 % 15 == 0:
+    print('FizzBuzz')
+elif a37 % 5 == 0:
+    print('Buzz')
+elif a37 % 3 == 0:
+    print('Fizz')
+else:
+    print('37')
+a38 = 38
+if a38 % 15 == 0:
+    print('FizzBuzz')
+elif a38 % 5 == 0:
+    print('Buzz')
+elif a38 % 3 == 0:
+    print('Fizz')
+else:
+    print('38')
+a39 = 39
+if a39 % 15 == 0:
+    print('FizzBuzz')
+elif a39 % 5 == 0:
+    print('Buzz')
+elif a39 % 3 == 0:
+    print('Fizz')
+else:
+    print('39')
+a40 = 40
+if a40 % 15 == 0:
+    print('FizzBuzz')
+elif a40 % 5 == 0:
+    print('Buzz')
+elif a40 % 3 == 0:
+    print('Fizz')
+else:
+    print('40')
+a41 = 41
+if a41 % 15 == 0:
+    print('FizzBuzz')
+elif a41 % 5 == 0:
+    print('Buzz')
+elif a41 % 3 == 0:
+    print('Fizz')
+else:
+    print('41')
+a42 = 42
+if a42 % 15 == 0:
+    print('FizzBuzz')
+elif a42 % 5 == 0:
+    print('Buzz')
+elif a42 % 3 == 0:
+    print('Fizz')
+else:
+    print('42')
+a43 = 43
+if a43 % 15 == 0:
+    print('FizzBuzz')
+elif a43 % 5 == 0:
+    print('Buzz')
+elif a43 % 3 == 0:
+    print('Fizz')
+else:
+    print('43')
+a44 = 44
+if a44 % 15 == 0:
+    print('FizzBuzz')
+elif a44 % 5 == 0:
+    print('Buzz')
+elif a44 % 3 == 0:
+    print('Fizz')
+else:
+    print('44')
+a45 = 45
+if a45 % 15 == 0:
+    print('FizzBuzz')
+elif a45 % 5 == 0:
+    print('Buzz')
+elif a45 % 3 == 0:
+    print('Fizz')
+else:
+    print('45')
+a46 = 46
+if a46 % 15 == 0:
+    print('FizzBuzz')
+elif a46 % 5 == 0:
+    print('Buzz')
+elif a46 % 3 == 0:
+    print('Fizz')
+else:
+    print('46')
+a47 = 47
+if a47 % 15 == 0:
+    print('FizzBuzz')
+elif a47 % 5 == 0:
+    print('Buzz')
+elif a47 % 3 == 0:
+    print('Fizz')
+else:
+    print('47')
+a48 = 48
+if a48 % 15 == 0:
+    print('FizzBuzz')
+elif a48 % 5 == 0:
+    print('Buzz')
+elif a48 % 3 == 0:
+    print('Fizz')
+else:
+    print('48')
+a49 = 49
+if a49 % 15 == 0:
+    print('FizzBuzz')
+elif a49 % 5 == 0:
+    print('Buzz')
+elif a49 % 3 == 0:
+    print('Fizz')
+else:
+    print('49')
+a50 = 50
+if a50 % 15 == 0:
+    print('FizzBuzz')
+elif a50 % 5 == 0:
+    print('Buzz')
+elif a50 % 3 == 0:
+    print('Fizz')
+else:
+    print('50')
+a51 = 51
+if a51 % 15 == 0:
+    print('FizzBuzz')
+elif a51 % 5 == 0:
+    print('Buzz')
+elif a51 % 3 == 0:
+    print('Fizz')
+else:
+    print('51')
+a52 = 52
+if a52 % 15 == 0:
+    print('FizzBuzz')
+elif a52 % 5 == 0:
+    print('Buzz')
+elif a52 % 3 == 0:
+    print('Fizz')
+else:
+    print('52')
+a53 = 53
+if a53 % 15 == 0:
+    print('FizzBuzz')
+elif a53 % 5 == 0:
+    print('Buzz')
+elif a53 % 3 == 0:
+    print('Fizz')
+else:
+    print('53')
+a54 = 54
+if a54 % 15 == 0:
+    print('FizzBuzz')
+elif a54 % 5 == 0:
+    print('Buzz')
+elif a54 % 3 == 0:
+    print('Fizz')
+else:
+    print('54')
+a55 = 55
+if a55 % 15 == 0:
+    print('FizzBuzz')
+elif a55 % 5 == 0:
+    print('Buzz')
+elif a55 % 3 == 0:
+    print('Fizz')
+else:
+    print('55')
+a56 = 56
+if a56 % 15 == 0:
+    print('FizzBuzz')
+elif a56 % 5 == 0:
+    print('Buzz')
+elif a56 % 3 == 0:
+    print('Fizz')
+else:
+    print('56')
+a57 = 57
+if a57 % 15 == 0:
+    print('FizzBuzz')
+elif a57 % 5 == 0:
+    print('Buzz')
+elif a57 % 3 == 0:
+    print('Fizz')
+else:
+    print('57')
+a58 = 58
+if a58 % 15 == 0:
+    print('FizzBuzz')
+elif a58 % 5 == 0:
+    print('Buzz')
+elif a58 % 3 == 0:
+    print('Fizz')
+else:
+    print('58')
+a59 = 59
+if a59 % 15 == 0:
+    print('FizzBuzz')
+elif a59 % 5 == 0:
+    print('Buzz')
+elif a59 % 3 == 0:
+    print('Fizz')
+else:
+    print('59')
+a60 = 60
+if a60 % 15 == 0:
+    print('FizzBuzz')
+elif a60 % 5 == 0:
+    print('Buzz')
+elif a60 % 3 == 0:
+    print('Fizz')
+else:
+    print('60')
+a61 = 61
+if a61 % 15 == 0:
+    print('FizzBuzz')
+elif a61 % 5 == 0:
+    print('Buzz')
+elif a61 % 3 == 0:
+    print('Fizz')
+else:
+    print('61')
+a62 = 62
+if a62 % 15 == 0:
+    print('FizzBuzz')
+elif a62 % 5 == 0:
+    print('Buzz')
+elif a62 % 3 == 0:
+    print('Fizz')
+else:
+    print('62')
+a63 = 63
+if a63 % 15 == 0:
+    print('FizzBuzz')
+elif a63 % 5 == 0:
+    print('Buzz')
+elif a63 % 3 == 0:
+    print('Fizz')
+else:
+    print('63')
+a64 = 64
+if a64 % 15 == 0:
+    print('FizzBuzz')
+elif a64 % 5 == 0:
+    print('Buzz')
+elif a64 % 3 == 0:
+    print('Fizz')
+else:
+    print('64')
+a65 = 65
+if a65 % 15 == 0:
+    print('FizzBuzz')
+elif a65 % 5 == 0:
+    print('Buzz')
+elif a65 % 3 == 0:
+    print('Fizz')
+else:
+    print('65')
+a66 = 66
+if a66 % 15 == 0:
+    print('FizzBuzz')
+elif a66 % 5 == 0:
+    print('Buzz')
+elif a66 % 3 == 0:
+    print('Fizz')
+else:
+    print('66')
+a67 = 67
+if a67 % 15 == 0:
+    print('FizzBuzz')
+elif a67 % 5 == 0:
+    print('Buzz')
+elif a67 % 3 == 0:
+    print('Fizz')
+else:
+    print('67')
+a68 = 68
+if a68 % 15 == 0:
+    print('FizzBuzz')
+elif a68 % 5 == 0:
+    print('Buzz')
+elif a68 % 3 == 0:
+    print('Fizz')
+else:
+    print('68')
+a69 = 69
+if a69 % 15 == 0:
+    print('FizzBuzz')
+elif a69 % 5 == 0:
+    print('Buzz')
+elif a69 % 3 == 0:
+    print('Fizz')
+else:
+    print('69')
+a70 = 70
+if a70 % 15 == 0:
+    print('FizzBuzz')
+elif a70 % 5 == 0:
+    print('Buzz')
+elif a70 % 3 == 0:
+    print('Fizz')
+else:
+    print('70')
+a71 = 71
+if a71 % 15 == 0:
+    print('FizzBuzz')
+elif a71 % 5 == 0:
+    print('Buzz')
+elif a71 % 3 == 0:
+    print('Fizz')
+else:
+    print('71')
+a72 = 72
+if a72 % 15 == 0:
+    print('FizzBuzz')
+elif a72 % 5 == 0:
+    print('Buzz')
+elif a72 % 3 == 0:
+    print('Fizz')
+else:
+    print('72')
+a73 = 73
+if a73 % 15 == 0:
+    print('FizzBuzz')
+elif a73 % 5 == 0:
+    print('Buzz')
+elif a73 % 3 == 0:
+    print('Fizz')
+else:
+    print('73')
+a74 = 74
+if a74 % 15 == 0:
+    print('FizzBuzz')
+elif a74 % 5 == 0:
+    print('Buzz')
+elif a74 % 3 == 0:
+    print('Fizz')
+else:
+    print('74')
+a75 = 75
+if a75 % 15 == 0:
+    print('FizzBuzz')
+elif a75 % 5 == 0:
+    print('Buzz')
+elif a75 % 3 == 0:
+    print('Fizz')
+else:
+    print('75')
+a76 = 76
+if a76 % 15 == 0:
+    print('FizzBuzz')
+elif a76 % 5 == 0:
+    print('Buzz')
+elif a76 % 3 == 0:
+    print('Fizz')
+else:
+    print('76')
+a77 = 77
+if a77 % 15 == 0:
+    print('FizzBuzz')
+elif a77 % 5 == 0:
+    print('Buzz')
+elif a77 % 3 == 0:
+    print('Fizz')
+else:
+    print('77')
+a78 = 78
+if a78 % 15 == 0:
+    print('FizzBuzz')
+elif a78 % 5 == 0:
+    print('Buzz')
+elif a78 % 3 == 0:
+    print('Fizz')
+else:
+    print('78')
+a79 = 79
+if a79 % 15 == 0:
+    print('FizzBuzz')
+elif a79 % 5 == 0:
+    print('Buzz')
+elif a79 % 3 == 0:
+    print('Fizz')
+else:
+    print('79')
+a80 = 80
+if a80 % 15 == 0:
+    print('FizzBuzz')
+elif a80 % 5 == 0:
+    print('Buzz')
+elif a80 % 3 == 0:
+    print('Fizz')
+else:
+    print('80')
+a81 = 81
+if a81 % 15 == 0:
+    print('FizzBuzz')
+elif a81 % 5 == 0:
+    print('Buzz')
+elif a81 % 3 == 0:
+    print('Fizz')
+else:
+    print('81')
+a82 = 82
+if a82 % 15 == 0:
+    print('FizzBuzz')
+elif a82 % 5 == 0:
+    print('Buzz')
+elif a82 % 3 == 0:
+    print('Fizz')
+else:
+    print('82')
+a83 = 83
+if a83 % 15 == 0:
+    print('FizzBuzz')
+elif a83 % 5 == 0:
+    print('Buzz')
+elif a83 % 3 == 0:
+    print('Fizz')
+else:
+    print('83')
+a84 = 84
+if a84 % 15 == 0:
+    print('FizzBuzz')
+elif a84 % 5 == 0:
+    print('Buzz')
+elif a84 % 3 == 0:
+    print('Fizz')
+else:
+    print('84')
+a85 = 85
+if a85 % 15 == 0:
+    print('FizzBuzz')
+elif a85 % 5 == 0:
+    print('Buzz')
+elif a85 % 3 == 0:
+    print('Fizz')
+else:
+    print('85')
+a86 = 86
+if a86 % 15 == 0:
+    print('FizzBuzz')
+elif a86 % 5 == 0:
+    print('Buzz')
+elif a86 % 3 == 0:
+    print('Fizz')
+else:
+    print('86')
+a87 = 87
+if a87 % 15 == 0:
+    print('FizzBuzz')
+elif a87 % 5 == 0:
+    print('Buzz')
+elif a87 % 3 == 0:
+    print('Fizz')
+else:
+    print('87')
+a88 = 88
+if a88 % 15 == 0:
+    print('FizzBuzz')
+elif a88 % 5 == 0:
+    print('Buzz')
+elif a88 % 3 == 0:
+    print('Fizz')
+else:
+    print('88')
+a89 = 89
+if a89 % 15 == 0:
+    print('FizzBuzz')
+elif a89 % 5 == 0:
+    print('Buzz')
+elif a89 % 3 == 0:
+    print('Fizz')
+else:
+    print('89')
+a90 = 90
+if a90 % 15 == 0:
+    print('FizzBuzz')
+elif a90 % 5 == 0:
+    print('Buzz')
+elif a90 % 3 == 0:
+    print('Fizz')
+else:
+    print('90')
+a91 = 91
+if a91 % 15 == 0:
+    print('FizzBuzz')
+elif a91 % 5 == 0:
+    print('Buzz')
+elif a91 % 3 == 0:
+    print('Fizz')
+else:
+    print('91')
+a92 = 92
+if a92 % 15 == 0:
+    print('FizzBuzz')
+elif a92 % 5 == 0:
+    print('Buzz')
+elif a92 % 3 == 0:
+    print('Fizz')
+else:
+    print('92')
+a93 = 93
+if a93 % 15 == 0:
+    print('FizzBuzz')
+elif a93 % 5 == 0:
+    print('Buzz')
+elif a93 % 3 == 0:
+    print('Fizz')
+else:
+    print('93')
+a94 = 94
+if a94 % 15 == 0:
+    print('FizzBuzz')
+elif a94 % 5 == 0:
+    print('Buzz')
+elif a94 % 3 == 0:
+    print('Fizz')
+else:
+    print('94')
+a95 = 95
+if a95 % 15 == 0:
+    print('FizzBuzz')
+elif a95 % 5 == 0:
+    print('Buzz')
+elif a95 % 3 == 0:
+    print('Fizz')
+else:
+    print('95')
+a96 = 96
+if a96 % 15 == 0:
+    print('FizzBuzz')
+elif a96 % 5 == 0:
+    print('Buzz')
+elif a96 % 3 == 0:
+    print('Fizz')
+else:
+    print('96')
+a97 = 97
+if a97 % 15 == 0:
+    print('FizzBuzz')
+elif a97 % 5 == 0:
+    print('Buzz')
+elif a97 % 3 == 0:
+    print('Fizz')
+else:
+    print('97')
+a98 = 98
+if a98 % 15 == 0:
+    print('FizzBuzz')
+elif a98 % 5 == 0:
+    print('Buzz')
+elif a98 % 3 == 0:
+    print('Fizz')
+else:
+    print('98')
+a99 = 99
+if a99 % 15 == 0:
+    print('FizzBuzz')
+elif a99 % 5 == 0:
+    print('Buzz')
+elif a99 % 3 == 0:
+    print('Fizz')
+else:
+    print('99')
+a100 = 100
+if a100 % 15 == 0:
+    print('FizzBuzz')
+elif a100 % 5 == 0:
+    print('Buzz')
+elif a100 % 3 == 0:
+    print('Fizz')
+else:
+    print('100')
